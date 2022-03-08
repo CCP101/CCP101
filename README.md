@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 🔧 I used to be a hardware engineer, developed on C51/STM32/FPGA hardware platform.  
 - 💻 Now, focusing more on the field of natural language processing, is working hard to become a deep learning engineer.
 
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=CCP101&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CCP101&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccp101">
 
