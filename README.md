@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ###  **Languages**
 
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CCP101&show_icons=true&icon_color=0078e7&title_color=0078e7">
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccp101">
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccp101">
