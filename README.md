@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 - 🏫 Currently a graduate student at TUST, Electronic Information Major.
 - 🍻 Graduated from NUAAJC, Former [A2-107](https://github.com/nuaajc-lab107) Lab Member.
-- ⚡ Most commonly used programming languages: C++ / Python / PHP. 
+- ⚡ Most used programming languages: C++ / Python / PHP. 
+- 🔧 Most used IDE: VScode/PyCharm/VS/IDEA 
 - 🧚‍♂️ Anime lover. 
 - 👨‍💻 Current research direction : NLP/KG.
 - 🌱 Like to research technology
