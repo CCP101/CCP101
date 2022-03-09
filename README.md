@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm [Sheldon Lee](https://ccp101.com/) 👋
 
- [![GitHub](https://img.shields.io/github/followers/ccp101?style=social)](https://github.com/ccp101)   ![twitter](https://img.shields.io/twitter/follow/ccp101_hakase?style=social)
+ [![GitHub](https://img.shields.io/github/followers/ccp101?style=social)](https://github.com/ccp101)   ![twitter](https://img.shields.io/twitter/follow/cpp101_hakase?style=social)
 
 - 🏫 Currently a graduate student at TUST, Electronic Information Major.
 - 🍻 Graduated from NUAAJC, Former [A2-107](https://github.com/nuaajc-lab107) Lab Member.
