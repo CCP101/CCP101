@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 
 ---
 
-###  **Working**
+###  **Working** 📊
 
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
 
 ---
 
-###  **Languages**
+###  **Languages** 
 
 - 🔧 I used to be a hardware engineer, developed on C51/STM32/FPGA hardware platform.  
 - 💻 Now, focusing more on the field of natural language processing, working hard to become a deep learning engineer.
