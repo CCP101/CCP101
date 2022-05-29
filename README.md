@@ -35,12 +35,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   40.56 %
-Python           3 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-JavaScript       1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-XML              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-Markdown         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-CSV/TSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Python       3 hrs 22 mins   ███████████████████▓░░░░░   78.74 %
+Java         29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+XML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
