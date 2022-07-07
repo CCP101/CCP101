@@ -35,7 +35,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-INI   0 secs          █████████████████████████   100.00 %
+JavaScript   25 mins         ██████████████████████▒░░   89.17 %
+Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Java         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
