@@ -35,8 +35,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-HTML   4 mins          ████████████████████▒░░░░   81.55 %
-YAML   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
