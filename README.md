@@ -35,9 +35,10 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 mins          █████████████░░░░░░░░░░░░   51.52 %
-Python       4 mins          ████████████░░░░░░░░░░░░░   48.23 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python       55 mins         ████████████████████▒░░░░   81.35 %
+JavaScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Batchfile    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
