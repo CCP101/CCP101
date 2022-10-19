@@ -35,10 +35,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Python       58 mins         ███████████████████░░░░░░   75.48 %
-Text         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Batchfile    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Python       58 mins         █████████████████░░░░░░░░   67.65 %
+Text         11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+INI          8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Batchfile    4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
