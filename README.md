@@ -35,8 +35,10 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Python   59 mins         █████████████████████████   99.65 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python   1 hr 10 mins    ██████████████████████▒░░   89.85 %
+HTML     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Java     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
