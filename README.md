@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 - 💬 Be free to ask me about anything [here](https://github.com/CCP101/CCP101/issues).
 
 ---
+### TOOLS
+![Skills](https://skillicons.dev/icons?i=docker,git,github,md,mongodb,mysql,powershell,raspberrypi)
+### Web
+![Skills](https://skillicons.dev/icons?i=js,ts,gulp,nodejs,vue,php,bootstrap,html,linux,nginx)
+### Program
+![Skills](https://skillicons.dev/icons?i=c,cpp,go,java,spring)
+### IDE
+![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim)
+### AI
+![Skills](https://skillicons.dev/icons?i=ai,tensorflow,pytorch,py)
+---
 
 ###  **Working** 📊
 
