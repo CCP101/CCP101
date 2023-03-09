@@ -37,12 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 30 mins   ███████████░░░░░░░░░░░░░░   43.90 %
-HTML             2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Python           2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Java             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-YAML             46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-PowerShell       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JavaScript       7 hrs 30 mins   █████████████░░░░░░░░░░░░   52.48 %
+HTML             2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Java             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+YAML             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+PowerShell       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Markdown         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
