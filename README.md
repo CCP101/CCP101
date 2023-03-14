@@ -37,12 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript       3 hrs 26 mins   ██████████░░░░░░░░░░░░░░░   39.89 %
-HTML             2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Java             50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-PowerShell       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-YAML             25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-JSON             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript       59 mins         ███████████░░░░░░░░░░░░░░   43.38 %
+Java             50 mins         █████████░░░░░░░░░░░░░░░░   36.36 %
+JSON             13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+XML              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
