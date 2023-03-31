@@ -37,9 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Python         3 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.43 %
-Java           1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Other          56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Python         3 hrs 16 mins   ██████████████░░░░░░░░░░░   55.92 %
+Java           1 hr 43 mins    ███████▒░░░░░░░░░░░░░░░░░   29.59 %
+Other          48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
 ```
 
 <!--END_SECTION:waka-->
