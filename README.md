@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Python         3 hrs 15 mins   ████████████████░░░░░░░░░   64.46 %
-Java           1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   34.25 %
-Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python       2 hrs 33 mins   ████████████████████████░   96.36 %
+INI          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
