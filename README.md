@@ -37,12 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Vue.js           3 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   36.86 %
-JavaScript       3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Java             1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Python           43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Java             2 hrs 11 mins   ██████████▒░░░░░░░░░░░░░░   41.63 %
+XML              1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 %
+JavaScript       40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Python           28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+CLASS            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Properties       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
