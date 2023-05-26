@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Python           21 mins         █████████████░░░░░░░░░░░░   52.59 %
-GitIgnore file   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-XML              8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+GitIgnore file   10 mins         █████████████▒░░░░░░░░░░░   53.70 %
+XML              8 mins          ███████████░░░░░░░░░░░░░░   44.20 %
+JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
