@@ -37,11 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   10 mins         █████████████▒░░░░░░░░░░░   53.70 %
-XML              8 mins          ███████████░░░░░░░░░░░░░░   44.20 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python           3 hrs 1 min     ████████████████▒░░░░░░░░   64.69 %
+Java             38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+CSV/TSV          26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+JavaScript       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+CSV              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+XML              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
