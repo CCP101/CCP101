@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 ### **Skills** 🔧 
-![Skills](https://skillicons.dev/icons?i=docker,git,github,md,mongodb,mysql,powershell,raspberrypi,js,ts,nodejs,vue,php,bootstrap,html,linux,nginx,c,cpp,go,java,spring,vscode,visualstudio,idea,vim,ai,tensorflow,pytorch,py)
+![Skills](https://skillicons.dev/icons?i=git,github,md,mysql,powershell,raspberrypi,js,nodejs,vue,php,bootstrap,html,linux,nginx,c,cpp,java,spring,vscode,visualstudio,idea,vim,ai,tensorflow,pytorch,py)
 ---
 ###  **Working** 📊
 
