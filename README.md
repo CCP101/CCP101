@@ -37,12 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 28 mins   ██████████████▒░░░░░░░░░░   57.49 %
-YAML             53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-XML              52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Properties       32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-JavaScript       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-textmate         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Java             8 hrs 26 mins   ████████████████▓░░░░░░░░   67.01 %
+XML              1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+YAML             1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+JavaScript       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Properties       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+textmate         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
