@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Properties   10 mins         █████████▓░░░░░░░░░░░░░░░   38.51 %
-Java         7 mins          ███████░░░░░░░░░░░░░░░░░░   27.62 %
-INI          5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-XML          2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Properties   20 mins         █████████▒░░░░░░░░░░░░░░░   37.15 %
+XML          13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
+Java         9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+INI          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 ```
 
 <!--END_SECTION:waka-->
