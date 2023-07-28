@@ -37,10 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-Java         10 mins         ████████████▓░░░░░░░░░░░░   50.25 %
-XML          6 mins          ███████░░░░░░░░░░░░░░░░░░   27.89 %
-JavaScript   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   10 mins         █████████████████████████   99.96 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
