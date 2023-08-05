@@ -37,12 +37,12 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-XML              1 hr 48 mins    ████████████████▓░░░░░░░░   66.30 %
-GitIgnore file   20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Java             15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-YAML             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-IDEA_MODULE      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+GitIgnore file   20 mins         █████████▒░░░░░░░░░░░░░░░   37.57 %
+Java             15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+JavaScript       11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+Markdown         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+XML              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+IDEA_MODULE      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
