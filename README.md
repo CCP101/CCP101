@@ -37,12 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   20 mins         █████████▒░░░░░░░░░░░░░░░   37.57 %
-Java             15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-JavaScript       11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-Markdown         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-XML              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-IDEA_MODULE      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JavaScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
