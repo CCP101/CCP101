@@ -37,7 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL              0 secs          ████████████████████▓░░░░   82.67 %
+Java             0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
