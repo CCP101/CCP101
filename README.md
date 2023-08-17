@@ -37,9 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```text
-SQL              0 secs          ████████████████████▓░░░░   82.67 %
-Java             0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+XML              7 mins          ████████▒░░░░░░░░░░░░░░░░   33.02 %
+Java             4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Other            3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
 ```
 
 <!--END_SECTION:waka-->
