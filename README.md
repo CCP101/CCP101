@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 
-```text
-Python       5 hrs 6 mins    ████████████████████████░   96.26 %
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+```txt
+Go               20 hrs 18 mins  ████████████████████████░   95.36 %
+textmate         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+SQL              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
