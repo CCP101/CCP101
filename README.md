@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go               11 hrs 31 mins  ███████████████████████▒░   92.75 %
-textmate         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-SQL              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Go           12 hrs 52 mins  ██████████████████████▓░░   91.33 %
+Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+textmate     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
