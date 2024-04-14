@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go   7 mins          █████████████████████████   100.00 %
+Go               5 hrs 55 mins   ███████████████████▓░░░░░   78.36 %
+JavaScript       40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Api File         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+CSV              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
