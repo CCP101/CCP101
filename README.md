@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go               5 hrs 36 mins   ███████████████████▓░░░░░   78.76 %
-HTML             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Api File         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-JavaScript       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-CSV              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Go               5 hrs 36 mins   ██████████████████▒░░░░░░   73.82 %
+Python           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+HTML             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Api File         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
