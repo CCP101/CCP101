@@ -37,7 +37,10 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       36 mins         ████████████████▒░░░░░░░░   65.67 %
+Go         12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
+Api File   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
