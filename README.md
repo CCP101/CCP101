@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java Properties   30 mins         █████████░░░░░░░░░░░░░░░░   35.53 %
+Java              20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+JavaScript        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+YAML              10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Other             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
