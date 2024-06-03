@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-YAML              4 hrs 3 mins    ███████████████▓░░░░░░░░░   62.44 %
-Go                39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-JavaScript        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-GitIgnore file    15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+YAML              3 hrs 3 mins    ████████████████░░░░░░░░░   63.74 %
+JavaScript        50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Go                14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Batchfile         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+GitIgnore file    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
