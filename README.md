@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   30 mins         ███████████████▓░░░░░░░░░   62.50 %
+HTML         10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+YAML         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Go           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
