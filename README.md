@@ -37,10 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   27 mins         ███████████████████▓░░░░░   78.63 %
-INI          6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+JavaScript   27 mins         ███████████████████▓░░░░░   79.02 %
+INI          6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
 JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
