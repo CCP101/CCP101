@@ -37,10 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   27 mins         ███████████████████▓░░░░░   79.02 %
-INI          6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   27 mins         ████████████████████████▒   97.89 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
