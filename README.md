@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 11 mins    ███████████████░░░░░░░░░░   60.04 %
-YAML         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-SSH Config   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Go           1 hr 19 mins    ██████████████░░░░░░░░░░░   55.94 %
+YAML         22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+SSH Config   20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Other        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
