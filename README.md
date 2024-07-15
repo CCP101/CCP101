@@ -37,11 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go           34 mins         ████████████░░░░░░░░░░░░░   48.66 %
-SSH Config   20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.84 %
-Other        14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other   14 mins         ████████████████▒░░░░░░░░   65.46 %
+Go      7 mins          ████████▓░░░░░░░░░░░░░░░░   34.54 %
 ```
 
 <!--END_SECTION:waka-->
