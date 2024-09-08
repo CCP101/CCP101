@@ -37,8 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-JSON   0 secs          ████████████████████░░░░░   80.59 %
-YAML   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Go     8 mins          ████████████████████████▓   99.02 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
