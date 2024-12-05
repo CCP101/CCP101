@@ -37,9 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go       12 mins         ███████████████▓░░░░░░░░░   62.57 %
-Python   7 mins          █████████▒░░░░░░░░░░░░░░░   37.43 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
