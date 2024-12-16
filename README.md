@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-YAML             1 hr 33 mins    ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Go               1 hr 16 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Docker           1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-Text             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Markdown         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Go               54 mins         ██████████▒░░░░░░░░░░░░░░   40.74 %
+YAML             44 mins         ████████▒░░░░░░░░░░░░░░░░   33.45 %
+textmate         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Docker           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JavaScript       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
