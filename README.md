@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-textmate   4 mins          █████████▒░░░░░░░░░░░░░░░   36.99 %
-Go         4 mins          █████████░░░░░░░░░░░░░░░░   35.89 %
-YAML       1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Docker     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Text       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
