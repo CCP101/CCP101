@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go       9 mins          ███████████████████████░░   92.21 %
-YAML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go           9 mins          ███████████████████▓░░░░░   78.52 %
+JavaScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+YAML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
