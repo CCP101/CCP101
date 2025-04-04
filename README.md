@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Python       12 mins         ████████▒░░░░░░░░░░░░░░░░   33.62 %
-JavaScript   10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-YAML         10 mins         ███████▒░░░░░░░░░░░░░░░░░   28.91 %
-Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+YAML         1 hr 8 mins     ██████████████████░░░░░░░   72.14 %
+Python       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+JavaScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
