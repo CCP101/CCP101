@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML                       50 mins         ████████████████▒░░░░░░░░   65.89 %
+Markdown                   20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+textmate                   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+GitIgnore file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
