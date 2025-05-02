@@ -37,11 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-YAML                       3 hrs 3 mins    █████████████████████▓░░░   87.18 %
-Markdown                   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-textmate                   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML       1 hr 22 mins    █████████████████████████   99.72 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
