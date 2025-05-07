@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ```txt
 Other      10 mins         ███████████████████▒░░░░░   77.02 %
-YAML       2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+YAML       2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.95 %
 Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
