@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Other      10 mins         ████████████████████████░   95.55 %
-YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Go                         3 hrs 28 mins   ███████████████████▒░░░░░   77.49 %
+YAML                       34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+SQL                        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Other                      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Markdown                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
