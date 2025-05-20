@@ -37,11 +37,10 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go           3 hrs 34 mins   █████████████████▒░░░░░░░   68.92 %
-YAML         1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Markdown     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Batchfile    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-textmate     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Go           1 hr 52 mins    ██████████████████░░░░░░░   71.38 %
+YAML         44 mins         ███████░░░░░░░░░░░░░░░░░░   28.05 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
