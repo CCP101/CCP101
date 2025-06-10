@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go         1 min           ██████████████████████░░░   88.19 %
-Markdown   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-YAML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Python             1 hr 2 mins     ██████████████████▒░░░░░░   72.70 %
+Text               14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Markdown           3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Go                 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Vue.js             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
