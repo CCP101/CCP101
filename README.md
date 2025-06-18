@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Python       27 mins         ███████████████████░░░░░░   75.73 %
-JSON         4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python       24 mins         ██████████████████▓░░░░░░   74.92 %
+JSON         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+textmate     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
