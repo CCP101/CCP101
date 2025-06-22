@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 min           ████████████░░░░░░░░░░░░░   48.11 %
-Java     0 secs          ███████████░░░░░░░░░░░░░░   44.15 %
-XML      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
