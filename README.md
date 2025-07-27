@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 4 mins     ████████████████████▓░░░░   82.02 %
-Api File   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-go.mod     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
