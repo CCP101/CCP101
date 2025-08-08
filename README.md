@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go                     7 mins          ████████████▒░░░░░░░░░░░░   48.79 %
-XML                    6 mins          █████████▒░░░░░░░░░░░░░░░   37.75 %
-YAML                   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Python                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Diagrams.net Diagram   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
