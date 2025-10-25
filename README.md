@@ -37,11 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 33 mins    █████████████████████░░░░   84.55 %
-Other    12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Text     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   37 mins         ██████████████████████▒░░   89.19 %
+Text     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
 ```
 
 <!--END_SECTION:waka-->
