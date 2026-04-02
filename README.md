@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-INI          33 mins         ██████████████▒░░░░░░░░░░   57.34 %
-Other        20 mins         ████████▓░░░░░░░░░░░░░░░░   34.80 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Go           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
