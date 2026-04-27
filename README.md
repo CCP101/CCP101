@@ -37,7 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         5 mins          ███████████████▓░░░░░░░░░   62.56 %
+Api File   3 mins          █████████▒░░░░░░░░░░░░░░░   37.44 %
+go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
