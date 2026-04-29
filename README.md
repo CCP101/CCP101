@@ -37,8 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Go         5 mins          ███████████████▓░░░░░░░░░   62.56 %
-Api File   3 mins          █████████▒░░░░░░░░░░░░░░░   37.44 %
+Text       33 mins         ███████████████████▓░░░░░   78.23 %
+Go         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Api File   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
 go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
