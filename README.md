@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown   41 mins         ███████████████████▒░░░░░   76.86 %
-Go         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-YAML       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Markdown     52 mins         █████████████████░░░░░░░░   67.97 %
+Go           7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+Text         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Git Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
