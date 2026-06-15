@@ -37,9 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Text         5 mins          ███████████████░░░░░░░░░░   59.79 %
-PowerShell   2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
-Other        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Text    5 mins          ████████████████████████▒   97.15 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
