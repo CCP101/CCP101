@@ -37,10 +37,9 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   24 mins         ████████████▒░░░░░░░░░░░░   49.45 %
-Python       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Markdown     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Text         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+PowerShell   24 mins         █████████████▓░░░░░░░░░░░   55.05 %
+Python       12 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
+Markdown     7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
 ```
 
 <!--END_SECTION:waka-->
