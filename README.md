@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Git Config       3 hrs 2 mins    ████████████████████▒░░░░   80.79 %
-Go               14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Python           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Text             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Other            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Git Config       3 hrs 2 mins    █████████████████████▒░░░   84.86 %
+Go               14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Text             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
