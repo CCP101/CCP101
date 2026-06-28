@@ -37,11 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Git Config       3 hrs 2 mins    █████████████████████▒░░░   84.86 %
-Go               14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Text             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git Config       3 hrs 37 mins   ██████████████████░░░░░░░   72.23 %
+Markdown         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+PowerShell       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Go               14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Text             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
