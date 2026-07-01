@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Git Config       3 hrs 2 mins    ██████████████████████▒░░   89.01 %
-Go               14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
