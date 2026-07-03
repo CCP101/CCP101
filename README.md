@@ -37,7 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash             11 mins         ██████████▓░░░░░░░░░░░░░░   42.83 %
+GitIgnore file   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+JSON             4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+YAML             4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
