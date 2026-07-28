@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
  [![GitHub](https://img.shields.io/github/followers/ccp101?style=social)](https://github.com/ccp101)   ![twitter](https://img.shields.io/twitter/follow/cpp101_hakase?style=social)   [![wakatime](https://wakatime.com/badge/user/b5b6ac2c-550f-4e67-902a-a3d1fc690e9c.svg)](https://wakatime.com/@b5b6ac2c-550f-4e67-902a-a3d1fc690e9c)
 
-- 🏫 Currently a graduate student at TUST, CS Major.
-- 🍻 Graduated from NUAAJC, Former [A2-107](https://github.com/nuaajc-lab107) Lab Member.
-- ⚡ Most used programming languages: Python / JavaScript / Java
+- 🏦 Currently working as a data analyst and SQL engineer at a commercial bank.
+- 🍻 Graduated from TUST, Former [TUST-KG-KT-group](https://github.com/TUST-KG-KT-group) /  [A2-107](https://github.com/nuaajc-lab107) Lab Member.
+- ⚡ Most used programming languages: Python / JavaScript / Java / Go
 - 🔧 Most used IDE: VScode / PyCharm / VS / IDEA 
 - 🧚‍♂️ Anime lover. 
 - 👨‍💻 Current research direction : NLP/KG.
