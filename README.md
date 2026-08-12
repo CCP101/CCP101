@@ -37,11 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 1 min            ███████████▒░░░░░░░░░░░░░   45.99 %
-C#         30 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
-JSON       15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-YAML       14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-EJS        5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
