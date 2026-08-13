@@ -37,7 +37,10 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+JavaScript   49 mins               ██████████▓░░░░░░░░░░░░░░   42.12 %
+Markdown     47 mins               ██████████░░░░░░░░░░░░░░░   40.06 %
+Less         16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Git          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
