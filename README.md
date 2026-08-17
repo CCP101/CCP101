@@ -37,10 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   49 mins               ██████████▓░░░░░░░░░░░░░░   42.12 %
-Markdown     47 mins               ██████████░░░░░░░░░░░░░░░   40.06 %
-Less         16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Git          4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Markdown   20 mins               ████████████████████▒░░░░   80.82 %
+Git        4 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
 ```
 
 <!--END_SECTION:waka-->
