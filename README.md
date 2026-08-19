@@ -37,8 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown   20 mins               ████████████████████▒░░░░   80.82 %
-Git        4 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
