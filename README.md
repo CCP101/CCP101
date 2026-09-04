@@ -37,10 +37,8 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-JSON       11 mins               ████████▓░░░░░░░░░░░░░░░░   34.65 %
-Markdown   8 mins                ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Python     6 mins                █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Mermaid    5 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+Python     3 mins                ███████████████▓░░░░░░░░░   63.23 %
+Markdown   2 mins                █████████▒░░░░░░░░░░░░░░░   36.77 %
 ```
 
 <!--END_SECTION:waka-->
