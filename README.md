@@ -37,9 +37,11 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-SQL          9 mins                ████████████████████░░░░░   80.47 %
-JavaScript   2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Python       47 mins               ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Markdown     31 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+JavaScript   29 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+PowerShell   17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+JSON         15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 ```
 
 <!--END_SECTION:waka-->
