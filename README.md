@@ -37,10 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 mins                ██████████░░░░░░░░░░░░░░░   39.63 %
-TypeScript   5 mins                █████████░░░░░░░░░░░░░░░░   35.79 %
-JavaScript   3 mins                ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
