@@ -37,10 +37,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 
 ```txt
-Python       23 mins               ██████████████░░░░░░░░░░░   55.75 %
-JavaScript   9 mins                ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-Markdown     4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-SQL          3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
